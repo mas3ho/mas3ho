@@ -1,16 +1,14 @@
-## Hi there 👋
+# Maureen_Maseho_Chipoya
+#  Hi there, I'm Maseho 👋
+### CS Student | Web Developer | Android Developer | Techinical Writer
 
-<!--
-**mas3ho/mas3ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[](https://github.com/Maseho#cs-student--web-developer--android-developer--techinical-writer)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me:
+-   🖋 I write blogs on  [hashnode](https://masehochipoya.hashnode.dev/)
+-   🌱 I’m currently learning about Artificial Intelligence
+-   🥅 2025 Goals: Build My Portfolio
+-   ⚡ Fun fact: I love monochrome photography, 
+    reading manga, reading novels and watching anime
+  
