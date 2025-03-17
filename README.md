@@ -1,4 +1,3 @@
-# Maureen_Maseho_Chipoya
 #  Hi there, I'm Maseho 👋
 ### CS Student | Web Developer | Android Developer | Techinical Writer
 
